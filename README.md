@@ -89,13 +89,3 @@ python tune_simulation.py    # run the statistics-matching optimization
 python train_and_eval.py     # full pipeline: train, tune, retrain, compare
 python make_figure.py        # generate comparison.png
 ```
-
-## Why this project
-
-Built while preparing an application to a PhD project on
-simulation-supervised machine learning for biological data (IMAGE
-section, Department of Computer Science, University of Copenhagen).
-The goal was to get real, hands-on experience with the core idea in
-that project description, tuning simulations to match real unlabeled
-data, before applying, rather than only describing it in an
-application.
