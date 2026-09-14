@@ -7,9 +7,7 @@ that tuning actually help a model trained purely on synthetic labels
 generalize better?
 
 This is a self-directed learning project, built to get hands-on with
-differentiable/optimizable simulation and sim-to-real methods ahead of
-applying to research in this area. It is intentionally small in scope
-and openly documents what works, what doesn't yet, and what's next.
+differentiable/optimizable simulation and sim-to-real methods.
 
 ## What's here
 
