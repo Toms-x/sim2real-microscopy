@@ -31,7 +31,7 @@ and openly documents what works, what doesn't yet, and what's next.
 - `make_figure.py` — produces `comparison.png`, a visual side-by-side of
   real-like, default-simulator, and tuned-simulator images.
 
-## Honest scope and limitations
+## Scope and limitations
 
 This environment doesn't have access to a real annotated microscopy
 dataset (e.g. the Broad Bioimage Benchmark Collection), so
